@@ -138,7 +138,7 @@ html, body {
     display: block;
     width: 24px;
     height: 19px;
-    background-image: url("./../../img/Icon (1).svg"); }
+    background-image: url("../img/Icon (1).svg"); }
 
 .form__input {
   flex-grow: 1;
