@@ -138,7 +138,7 @@ html, body {
     display: block;
     width: 24px;
     height: 19px;
-    background-image: url("../img/Icon (1).svg"); }
+    background-image: url("../img/Icon-1.svg"); }
 
 .form__input {
   flex-grow: 1;
@@ -178,7 +178,7 @@ html, body {
       display: block;
       width: 12px;
       height: 12px;
-      background-image: url("/img/play.svg");
+      background-image: url("../img/play.svg");
       background-size: initial;
       background-repeat: no-repeat; }
   .button--orange {
@@ -290,7 +290,7 @@ html, body {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background: url("./../../img/cta/Oval.svg") bottom left -186px no-repeat, url("./../../img/cta/Group 6.svg") right top no-repeat; }
+  background: url("../img/cta/Oval.svg") bottom left -186px no-repeat, url("../img/cta/Group 6.svg") right top no-repeat; }
   .cta__text p {
     width: 320px; }
 
@@ -425,7 +425,7 @@ html, body {
     top: -40px;
     width: 80px;
     height: 80px;
-    background-image: url("./../../img/Shape.svg");
+    background-image: url("../img/Shape.svg");
     background-repeat: no-repeat; }
 
 .card-testimonial {
@@ -481,7 +481,7 @@ html, body {
   position: relative;
   padding-top: 200px;
   padding-bottom: 55px;
-  background-image: url("./../../img/contacts/Bg.svg");
+  background-image: url("../img/contacts/Bg.svg");
   background-size: cover;
   color: #fff; }
   .contacts:before {
@@ -492,7 +492,7 @@ html, body {
     display: block;
     width: 743px;
     height: 372px;
-    background-image: url("./../../img/contacts/footer-oval.svg");
+    background-image: url("../img/contacts/footer-oval.svg");
     background-size: initial; }
   .contacts:after {
     position: absolute;
@@ -503,7 +503,7 @@ html, body {
     display: block;
     width: 478px;
     height: 547px;
-    background-image: url("./../../img/contacts/footer-img.png");
+    background-image: url("../img/contacts/footer-img.png");
     background-size: initial; }
 
 .contacts__info {
